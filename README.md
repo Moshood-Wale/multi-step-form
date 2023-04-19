@@ -1,4 +1,4 @@
-- Multi-step form
+## Multi-step form
 
 This project is a React app that implements a multi-step form user interface.
 
