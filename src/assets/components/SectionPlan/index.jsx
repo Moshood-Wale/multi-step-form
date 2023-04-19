@@ -4,7 +4,7 @@ import PriceTime from "../priceTime";
 
 //img
 import arcade from "../../images/icon-arcade.svg";
-import advance from "../../images/icon-Advanced.svg";
+import advance from "../../images/icon-advanced.svg";
 import pro from "../../images/icon-pro.svg";
 
 //data
